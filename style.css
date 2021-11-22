@@ -21,13 +21,13 @@ a {
 
 footer {
   padding:40px 40px;
-  background-color: rgb(0, 137, 161);
+  background-color: rgb(53, 123, 166);
   color: white;
   margin-top: 40px;
 }
 
 .header {
-  background-color: rgb(0, 137, 161);
+  background-color: rgb(53, 123, 166);
   color: white;
   padding: 30px;
 }
@@ -53,7 +53,7 @@ footer {
 
 .fitness {
   margin: 30px 40px;
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
 }
 
 .first-p-tag {
@@ -65,7 +65,7 @@ footer {
 }
 
 span {
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
   font-weight: bold;
 }
 
@@ -85,7 +85,7 @@ span {
 }
 
 .follow {
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
   margin: 20px 30px 20px 40px;
 }
 
@@ -133,7 +133,7 @@ span {
 }
 
 .testimonials {
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
   display: flex;
   justify-content: space-evenly;
   margin-top: 40px
@@ -145,7 +145,7 @@ span {
 
 .testimonials-card {
   display: flex;
-  border: 2px solid rgb(0, 137, 161);
+  border: 2px solid rgb(53, 123, 166);
   padding: 3rem 0.5rem;
   border-radius: 10px;
   box-shadow: 4px 4px 20px grey;
@@ -161,7 +161,7 @@ span {
   text-align: center;
   font-size: 1.5rem;
   padding: 20px;
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
 }
 
 .testimonials-links p {
@@ -209,7 +209,7 @@ span {
 
 .gym-cards-heading,
 .about-us-heading {
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
   text-align: center;
   margin-top: 40px;
   font-size: 2rem;
@@ -223,7 +223,7 @@ span {
 }
 
 .gym-card-container {
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
   display: flex;
   justify-content: space-evenly;
   margin-top: 40px
@@ -235,7 +235,7 @@ span {
 
 .gym-card {
   display: flex;
-  border: 2px solid rgb(0, 137, 161);
+  border: 2px solid rgb(53, 123, 166);
   padding: 3rem 0.5rem;
   border-radius: 10px;
   box-shadow: 4px 4px 20px grey;
@@ -252,9 +252,10 @@ span {
   text-align: center;
   font-size: 1.5rem;
   padding: 40px 20px 10px;
-  color: rgb(0, 137, 161);
+  color: rgb(53, 123, 166);
 }
 
 .gym-card h4:hover {
   text-decoration: underline;
+  color: orange;
 }
