@@ -30,6 +30,9 @@ footer {
   background-color: rgb(53, 123, 166);
   color: white;
   padding: 30px;
+  display: flex;
+  align-items: center;
+  place-content: space-between;
 }
 
 .header .nav {
