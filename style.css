@@ -206,3 +206,55 @@ span {
 .links li :hover {
   color: orange;
 }
+
+.gym-cards-heading,
+.about-us-heading {
+  color: rgb(0, 137, 161);
+  text-align: center;
+  margin-top: 40px;
+  font-size: 2rem;
+}
+
+.about-us-section p {
+  width: 75ch;
+  text-align: justify;
+  line-height: 1.8;
+  margin: 30px auto;
+}
+
+.gym-card-container {
+  color: rgb(0, 137, 161);
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px
+}
+
+.gym-card-container img {
+  border-radius: 50% 
+}
+
+.gym-card {
+  display: flex;
+  border: 2px solid rgb(0, 137, 161);
+  padding: 3rem 0.5rem;
+  border-radius: 10px;
+  box-shadow: 4px 4px 20px grey;
+  justify-content: center;
+  width: 350px;
+}
+
+.gym-links {
+  display: grid;
+  place-items: center;
+}
+
+.gym-links h4 {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 40px 20px 10px;
+  color: rgb(0, 137, 161);
+}
+
+.gym-card h4:hover {
+  text-decoration: underline;
+}
